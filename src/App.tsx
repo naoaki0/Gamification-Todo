@@ -54,7 +54,7 @@ const AppContent: React.FC = () => {
       <Header />
 
       {/* Main content */}
-      <main className="max-w-4xl mx-auto px-4 py-6 pb-24">
+      <main className="max-w-2xl mx-auto px-4 py-6 pb-24">
         {/* Mascot and Welcome */}
         <div className="flex justify-center mb-6">
           <Mascot />

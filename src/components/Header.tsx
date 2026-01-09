@@ -9,7 +9,7 @@ const Header: React.FC = () => {
 
   return (
     <header className="bg-duo-card border-b border-gray-700/50 sticky top-0 z-40">
-      <div className="max-w-4xl mx-auto px-4 py-3">
+      <div className="max-w-2xl mx-auto px-4 py-3">
         {/* Top row - Logo and main stats */}
         <div className="flex items-center justify-between mb-3">
           {/* Logo */}
